@@ -5,6 +5,14 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+button {
+    cursor: pointer;
+}
+
+a{
+    cursor: pointer;
+}
+
 .container{
     width: 1120px;
     margin: 0 auto;
